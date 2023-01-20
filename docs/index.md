@@ -11,10 +11,10 @@
 
 # Programming Skillsets
 
-- (Recent) **C# with Unity**
-- (Recent) **Python3**
-- (Recent) **Kotlin**
-- (Recent) **Bash**
+- (Recent) **`C-Sharp` with Unity**
+- (Recent) **`Python3`**
+- (Recent) **`Kotlin`**
+- (Recent) **`Bash`**
 
 # Non-programming Skillsets
 
