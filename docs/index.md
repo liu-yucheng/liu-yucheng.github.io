@@ -52,3 +52,7 @@ Available languages.
 - Chinese (Simplified)
 
 Please contact `liu.r.yucheng@gmail.com`.
+
+# About This Webpage
+
+Welcome to the [GitHub repo](https://github.com/liu-yucheng/liu-yucheng.github.io) of this webpage!
