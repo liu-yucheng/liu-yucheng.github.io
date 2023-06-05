@@ -1,7 +1,7 @@
 # Yucheng LIU
 
 - Software engineer
-- Open-source developer
+- Open-source software developer
 - Startup co-founder
 - Master of Philosophy student
 
@@ -11,43 +11,49 @@
 
 # Programming Skillsets
 
+- (Recent) **`C-Plus-Plus` with Arduino-compatible SDKs**
+- (Recent) **`Blueprint` with Unreal Engine**
 - (Recent) **`C-Sharp` with Unity**
 - (Recent) **`Python3`**
-- (Recent) **`Kotlin`**
-- (Recent) **`Bash`**
+- `Kotlin`
+- `Bash`
 
 # Non-programming Skillsets
 
-- (Recent) **3D scene pre-rendering**
-- (Recent) **3D scene building**
+- (Recent) **MCU-sensor integration**
+- (Recent) **interactive 3D scene programming**
 - (Recent) **video manipulation**
 - (Recent) **audio manipulation**
 - (Recent) **image manipulation**
-- (Recent) **graphic designs**
+- 3D scene rendering
+- 3D scene building
+- Graphic designs
 
 # Research Interests
 
-- (Recent) **human-computer interaction**
+- (Recent) **VR/AR motion sickness reduction**
+- (Recent) **interactive data visualization**
 - (Recent) **human-centered computing**
-- (Recent) **VR/AR 3D scene target selection and manipulation**
-- Human-machine interface designs
+- Human-AI collaboration
 
 # Open-source Software Projects
 
-- (Recent) **[AIDesign-OpenToolChain](https://github.com/liu-yucheng/AIDesign-OpenToolchain)**, AIDesign's open-source software collection
-  - (Recent) **[AIDesign-GAN](https://github.com/liu-yucheng/AIDesign-GAN)**, AIDesign's GAN modeling lab
-  - (Recent) **[AIDesign-Blend](https://github.com/liu-yucheng/AIDesign-Blend)**, AIDesign's image fragment blending application
-  - (Recent) **[AIDesign-Widgets](https://github.com/liu-yucheng/AIDesign-Widgets)**, AIDesign's small utility collection
-- (Recent) **[LYC-GitBashUtils](https://github.com/liu-yucheng/LYC-GitBashUtils)**, AKA. `gbu`, my personal Git `bash` utility collection
+- (Recent) **[AIDesign-OpenToolChain](https://github.com/liu-yucheng/AIDesign-OpenToolchain). AIDesign's open-source software collection.**
+  - **[AIDesign-GAN](https://github.com/liu-yucheng/AIDesign-GAN). AIDesign's GAN modeling lab.**
+  - **[AIDesign-Blend](https://github.com/liu-yucheng/AIDesign-Blend). AIDesign's image fragment blending application.**
+  - **[AIDesign-Widgets](https://github.com/liu-yucheng/AIDesign-Widgets). AIDesign's small utility collection.**
+- [LYC-GitBashUtils](https://github.com/liu-yucheng/LYC-GitBashUtils). AKA. `gbu`. My personal Git `bash` utility collection.
 
 # Research Projects
 
-- (Paused) [`FairPredAltSGD` algorithm](https://github.com/liu-yucheng/AIDesign-GAN#fair_pred_alt_algo-experimental-algorithm), an AIDesign subproject
-- More research projects coming soon
+- (In progress) **A VR motion sickness reduction project.**
+- (In progress) **A Retroverse VR bike-riding / cycling project.**
+- (Paused) [`FairPredAltSGD` algorithm](https://github.com/liu-yucheng/AIDesign-GAN#fair_pred_alt_algo-experimental-algorithm). An AIDesign research project.
+- More research projects are coming soon.
 
 # CV / Resume
 
-Available languages.
+My CV / Resume is available in the following languages.
 - English (US)
 - Chinese (Simplified)
 
