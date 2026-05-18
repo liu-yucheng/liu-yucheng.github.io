@@ -1,12 +1,24 @@
-# liu-yucheng.github.io
+# [liu-yucheng.github.io](https://liu-yucheng.github.io)
 
 My personal `github.io` webpage.
 
-I make this webpage primarily to list and demonstrate the following items:
+# Copyright
+## Textual and Code Contents
 
-- My recent programming and non-programming skillsets
-- My academic research interests
-- My recent open-source software projects
-- My recent academic research projects
+```
+liu-yucheng.github.io
+Copyright (C) 2023-2026 Yucheng Liu. Under the AGPL 3.0 License.
+AGPL 3.0 License: https://www.gnu.org/licenses/agpl-3.0.txt .
+```
 
-This webpage is open-source. And, I release it under the GNU AGPL3 license.
+- [The AGPL 3.0 License.](./LICENSE)
+
+## Non-textual or Non-code Contents
+
+```
+liu-yucheng.github.io
+Copyright (C) 2023-2026 Yucheng Liu. Under the CC-BY-SA 4.0 License.
+CC-BY-SA 4.0 License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt .
+```
+
+- [The CC-BY-SA 4.0 License.](./license-2)
